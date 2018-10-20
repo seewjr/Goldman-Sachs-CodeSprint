@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c006ad8-f9c3-4e05-ae63-6ae48e39df16" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank Accounts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Buy Maximum Stocks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Whole minute dilemma.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,13 +25,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bank Accounts.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Bank Accounts.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bank Accounts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="100">
+              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Whole minute dilemma.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Whole minute dilemma.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -53,6 +56,7 @@
       <list>
         <option value="$PROJECT_DIR$/Buy Maximum Stocks.py" />
         <option value="$PROJECT_DIR$/Bank Accounts.py" />
+        <option value="$PROJECT_DIR$/Whole minute dilemma.py" />
       </list>
     </option>
   </component>
@@ -150,10 +154,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bank Accounts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="100">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Whole minute dilemma.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
